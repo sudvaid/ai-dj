@@ -1,0 +1,44 @@
+[
+  {
+    "filename": "Don Toliver - No Pole [Official Visualizer].mp3",
+    "bpm": 129.19921875,
+    "key": 7,
+    "energy": 0.38458752632141113,
+    "spectral_centroid": 2139.2933058318217
+  },
+  {
+    "filename": "Future - Low Life ft. The Weeknd.mp3",
+    "bpm": 143.5546875,
+    "key": 0,
+    "energy": 0.1718236804008484,
+    "spectral_centroid": 1753.22910622465
+  },
+  {
+    "filename": "NOKIA.mp3",
+    "bpm": 107.666015625,
+    "key": 9,
+    "energy": 0.2954165041446686,
+    "spectral_centroid": 2798.267195979201
+  },
+  {
+    "filename": "pick up the phone.mp3",
+    "bpm": 135.99917763157896,
+    "key": 9,
+    "energy": 0.2888096570968628,
+    "spectral_centroid": 2248.226435706426
+  },
+  {
+    "filename": "Playboi Carti & The Weeknd - RATHER LIE (Official Audio).mp3",
+    "bpm": 89.10290948275862,
+    "key": 10,
+    "energy": 0.27846968173980713,
+    "spectral_centroid": 2616.127517821149
+  },
+  {
+    "filename": "Rock That Body - The Black Eyed Peas (Lyrics).mp3",
+    "bpm": 123.046875,
+    "key": 9,
+    "energy": 0.21683068573474884,
+    "spectral_centroid": 2824.9515161634863
+  }
+]
