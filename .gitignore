@@ -205,3 +205,22 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ignore virtual environments
+venv/
+.env/
+ENV/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore data folders except placeholders
+data/*
+!data/.gitkeep
+!data/tracks/.gitkeep
+!data/features.json
+
+# Ignore large media files
+*.mp3
+*.wav
